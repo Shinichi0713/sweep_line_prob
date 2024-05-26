@@ -1,5 +1,5 @@
 # sweep_line_prob
-問題
+問題<br>
 ´´´
 The XOR sum of a list is the bitwise XOR of all its elements. If the list only contains one element, then its XOR sum will be equal to this element.
 
