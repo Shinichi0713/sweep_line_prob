@@ -1,6 +1,6 @@
 # sweep_line_prob
 問題<br>
-´´´
+```
 The XOR sum of a list is the bitwise XOR of all its elements. If the list only contains one element, then its XOR sum will be equal to this element.
 
 For example, the XOR sum of [1,2,3,4] is equal to 1 XOR 2 XOR 3 XOR 4 = 4, and the XOR sum of [3] is equal to 3.
@@ -29,4 +29,4 @@ Constraints:
 
 1 <= arr1.length, arr2.length <= 105
 0 <= arr1[i], arr2[j] <= 109
-´´´
+```
